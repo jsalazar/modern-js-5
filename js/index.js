@@ -269,7 +269,7 @@ console.log('alpha regular: ');
 console.log(alphaRegular);
 
 
-
+// or KoolKids way with new Set(...alphaDupes)
 
 
 
