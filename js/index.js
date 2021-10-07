@@ -1,13 +1,8 @@
 /* eslint-disable */
 
-// Javascript Interview Tests
-
-
-
 
 // FIRST: Master the following
 // filter(), find(), map(), reduce()
-
 
 
 // set up some data to be used in advance
